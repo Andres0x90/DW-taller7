@@ -31,7 +31,7 @@ public class Ducati extends HttpServlet {
         out.println("<title>Ducati</title>");
         out.println("</head>");
         out.println("<body>");
-        out.println("<h1>Kawasaki</h1>");
+        out.println("<h1>Ducati</h1>");
         out.println("<img src='imgs/ducati.jpg'>");
         out.println("<h1>Descripcion</h1>");
         out.println("<p>La marca italiana con sede en Bolonia fabrica motocicletas desde 1935. Ducati es conocida por sus potentes motos deportivas. La compañía tiene una historia larga en las carreras, que comenzó en 1951. Hoy en día se gasta más del 7% de sus ingresos en el negocio de las carreras.</p>");
